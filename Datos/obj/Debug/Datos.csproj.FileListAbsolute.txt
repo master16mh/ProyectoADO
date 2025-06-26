@@ -1,0 +1,10 @@
+C:\Users\maria\Desktop\Instituto\2do año\Programación 2(libre)\Trabajos practicos\Proyecto (Tec.ADO) 2da Entrega\ProyectoADO\Datos\bin\Debug\Datos.dll.config
+C:\Users\maria\Desktop\Instituto\2do año\Programación 2(libre)\Trabajos practicos\Proyecto (Tec.ADO) 2da Entrega\ProyectoADO\Datos\bin\Debug\Datos.dll
+C:\Users\maria\Desktop\Instituto\2do año\Programación 2(libre)\Trabajos practicos\Proyecto (Tec.ADO) 2da Entrega\ProyectoADO\Datos\bin\Debug\Datos.pdb
+C:\Users\maria\Desktop\Instituto\2do año\Programación 2(libre)\Trabajos practicos\Proyecto (Tec.ADO) 2da Entrega\ProyectoADO\Datos\bin\Debug\Entidades.dll
+C:\Users\maria\Desktop\Instituto\2do año\Programación 2(libre)\Trabajos practicos\Proyecto (Tec.ADO) 2da Entrega\ProyectoADO\Datos\bin\Debug\Entidades.pdb
+C:\Users\maria\Desktop\Instituto\2do año\Programación 2(libre)\Trabajos practicos\Proyecto (Tec.ADO) 2da Entrega\ProyectoADO\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\Instituto\2do año\Programación 2(libre)\Trabajos practicos\Proyecto (Tec.ADO) 2da Entrega\ProyectoADO\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Instituto\2do año\Programación 2(libre)\Trabajos practicos\Proyecto (Tec.ADO) 2da Entrega\ProyectoADO\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Users\maria\Desktop\Instituto\2do año\Programación 2(libre)\Trabajos practicos\Proyecto (Tec.ADO) 2da Entrega\ProyectoADO\Datos\obj\Debug\Datos.dll
+C:\Users\maria\Desktop\Instituto\2do año\Programación 2(libre)\Trabajos practicos\Proyecto (Tec.ADO) 2da Entrega\ProyectoADO\Datos\obj\Debug\Datos.pdb

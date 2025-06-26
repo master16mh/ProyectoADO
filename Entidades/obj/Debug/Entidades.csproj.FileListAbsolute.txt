@@ -1,0 +1,6 @@
+C:\Users\maria\Desktop\Instituto\2do año\Programación 2(libre)\Trabajos practicos\Proyecto (Tec.ADO) 2da Entrega\ProyectoADO\Entidades\bin\Debug\Entidades.dll
+C:\Users\maria\Desktop\Instituto\2do año\Programación 2(libre)\Trabajos practicos\Proyecto (Tec.ADO) 2da Entrega\ProyectoADO\Entidades\bin\Debug\Entidades.pdb
+C:\Users\maria\Desktop\Instituto\2do año\Programación 2(libre)\Trabajos practicos\Proyecto (Tec.ADO) 2da Entrega\ProyectoADO\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\Instituto\2do año\Programación 2(libre)\Trabajos practicos\Proyecto (Tec.ADO) 2da Entrega\ProyectoADO\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Instituto\2do año\Programación 2(libre)\Trabajos practicos\Proyecto (Tec.ADO) 2da Entrega\ProyectoADO\Entidades\obj\Debug\Entidades.dll
+C:\Users\maria\Desktop\Instituto\2do año\Programación 2(libre)\Trabajos practicos\Proyecto (Tec.ADO) 2da Entrega\ProyectoADO\Entidades\obj\Debug\Entidades.pdb
